@@ -1,0 +1,10 @@
+#+title: Yudh
+#+author: Akshit Gaur
+#+date: <2025-01-11 Sat>
+
+* Yudh
+
+What is Yudh you ask?
+- It is a rather ambitious project for medieval/ancient battlefield simulation with *stochastic* combat simulation along with plug-and-play agent support.
+- Melee and ranged combat supported!
+- Implemented in Rust!
